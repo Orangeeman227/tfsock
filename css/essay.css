@@ -1,0 +1,33 @@
+
+
+body { 
+background-color:#696969; color: #969696;
+font-family: Arial, Verdana, sans-serif;
+	margin-left:10%;
+	padding:1px 16px;
+	height:1000px;
+	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: #545454;
+  height: 100%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+div.foot 
+{
+  text-align: center;
+}
+
+div.main
+{
+	margin-left:10%;
+	padding:1px 16px;
+	height:1000px;
+	
+}
