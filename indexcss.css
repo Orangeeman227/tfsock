@@ -18,7 +18,7 @@ body {
 /* Style the header links */
 .header a {
   position: relative;
-  left: -120px;
+  left: -40px;
   top: -60px;
   float: left;
   color: white;
@@ -35,7 +35,7 @@ body {
 
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
 .header a.logo {
-  <img src = "Images\TfsockLogo.png" width = "45%" float = "true"></img>
+
   position: relative;
   left: 15px;
   top: 50px;
