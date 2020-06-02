@@ -18,7 +18,7 @@ body {
 /* Style the header links */
 .header a {
   position: relative;
-  left: -40px;
+  left: 20px;
   top: -60px;
   float: left;
   color: white;
@@ -37,7 +37,7 @@ body {
 .header a.logo {
 
   position: relative;
-  left: 15px;
+  left: -15px;
   top: 50px;
 }
 
