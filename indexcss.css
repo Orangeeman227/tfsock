@@ -46,14 +46,14 @@ body {
 
 /* Change the background color on mouse-over */
 .header a:hover {
-  background-color: #C4C4C4;
+  background-color: #FF6000;
   color: black;
 }
 
 /* Style the active/current link*/
 .header a.active {
-  background-color: dodgerblue;
-  color: white;
+  background-color: #C4C4C4;
+  color: #161822;
 }
 
 /* Float the link section to the right */
