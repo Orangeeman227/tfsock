@@ -48,12 +48,14 @@ body {
 .header a:hover {
   background-color: #FF6000;
   color: black;
+  border-radius: 25px;
 }
 
 /* Style the active/current link*/
 .header a.active {
   background-color: #C4C4C4;
   color: #161822;
+    border-radius: 25px;
 }
 
 /* Float the link section to the right */
